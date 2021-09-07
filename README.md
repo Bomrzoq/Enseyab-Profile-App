@@ -3,4 +3,4 @@ This project present a protifolio with enseyab company using Flutter to implemen
 
 -------------------------
 
-<img src="https://raw.githubusercontent.com/Bomrzoq/Enseyab-Profile-App/main/assets/gif/short_show.gif"  height="240" style="text-align: center"/>
+<img src="https://raw.githubusercontent.com/Bomrzoq/Enseyab-Profile-App/main/assets/gif/short_show.gif"  height="340" style="text-align: center"/>
