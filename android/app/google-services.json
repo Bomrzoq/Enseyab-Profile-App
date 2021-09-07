@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011875926834",
+    "project_id": "ensyab-f54c6",
+    "storage_bucket": "ensyab-f54c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011875926834:android:dc5ff23883119c0304bd2b",
+        "android_client_info": {
+          "package_name": "com.example.company_profile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011875926834-fpo1mmsud4mkn2h1brgk8573ov16n0nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWNWUQMbkSysU_ROUGny0CwufV29mXaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011875926834-fpo1mmsud4mkn2h1brgk8573ov16n0nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
