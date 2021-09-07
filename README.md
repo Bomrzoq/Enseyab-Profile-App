@@ -182,9 +182,9 @@ Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Abdullah AlMarzoq - [@your_twitter](https://twitter.com/your_username) - bomrzoq@gmail.com
+Abdullah AlMarzoq - [Email](emailto:bomrzoq@gmail.com)
 
-Project Link: [Enseya Profile](https://github.com/Bomrzoq/Enseyab-Profile-App)
+Project Link: [Enseyab Profile](https://github.com/Bomrzoq/Enseyab-Profile-App)
 
 
 
