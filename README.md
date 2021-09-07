@@ -90,7 +90,7 @@ This project present a protifolio with enseyab company using Flutter to implemen
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Frameworks that I used to build this project.
 * [Flutter](https://getbootstrap.com)
 
 
@@ -99,12 +99,11 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is how you set up this project locally.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * Git (Windows)
   ```sh
   got to https://git-scm.com/downloads and install it
@@ -153,7 +152,7 @@ This project is used to display the information of the comapny in the best and s
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/bomrzoq/Enseyab-Profile-App/issues) for a list of proposed features (and known issues).
 
 
 
