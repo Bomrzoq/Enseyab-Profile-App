@@ -143,10 +143,12 @@ This is an example of how to list things you need to use the software and how to
 
 This project is used to display the information of the comapny in the best and simplest way possible and to make it much easier to directly communicate with possible clients.as in the below example it shows the company information including their work (programs in here) and a way to contact them through the application without the need of accessing any email or personal accounts.
 
-
+<p float="left">
 <img src="https://raw.githubusercontent.com/Bomrzoq/Enseyab-Profile-App/main/assets/images/Home_Page.jpg"  height="540" style="display: inline;"/>
 <img src="https://raw.githubusercontent.com/Bomrzoq/Enseyab-Profile-App/main/assets/images/Our_Systems_Page.jpg"  height="540" style="display: inline;"/>
 <img src="https://raw.githubusercontent.com/Bomrzoq/Enseyab-Profile-App/main/assets/images/Contact_Us_Page.jpg"  height="540" style="display: inline;"/>
+</p>
+
 
 
 
