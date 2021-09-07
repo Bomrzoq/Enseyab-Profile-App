@@ -34,23 +34,21 @@ This project present a protifolio with enseyab company using Flutter to implemen
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Company Profile Application</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome way to show your company and to jumpstart your projects directly to the clients!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/bomrzoq/Enseyab-Profile-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/bomrzoq/Enseyab-Profile-App">No Demos currently sorry 🙇🏽‍♂️</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/bomrzoq/Enseyab-Profile-App/issues">Report Bug 🐛</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/bomrzoq/Enseyab-Profile-App/issues">Request Feature ✨</a>
   </p>
 </p>
 
